@@ -1,6 +1,7 @@
 # REANME TOOL
 - License: AnhTuIT04
 - Verison: 1.0.0
+- Repository: ```https://github.com/AnhTuIT04/RenameTool```
 
 # Hướng dẫn sử dụng
 
