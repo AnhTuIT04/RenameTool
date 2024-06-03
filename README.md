@@ -1,4 +1,8 @@
-# Chương trình đổi tên các file trong folder 
+# REANME TOOL
+- License: AnhTuIT04
+- Verison: 1.0.0
+
+# Hướng dẫn sử dụng
 
 ## Bước 1:
 Đưa đường dẫn của các folder chứa các file cần đổi tên vào file ```folders.txt``` (mỗi đường dẫn nằm trên một hàng, không chứa các kí tự đặc biệt.
